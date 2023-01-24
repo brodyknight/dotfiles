@@ -1,0 +1,9 @@
+input "type:keyboard" {
+	xkb_layout "gb"
+	xkb_options "caps:escape"
+}
+
+input "type:touchpad" {
+	tap enabled
+	natural_scroll enabled
+}

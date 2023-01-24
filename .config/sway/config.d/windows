@@ -1,0 +1,7 @@
+for_window [app_id="1Password"] floating enable, border pixel 5, resize set width 1000 px height 800 px
+for_window [app_id="udiskie"] floating enable, border pixel 5, sticky enable
+for_window [title="Connection Editor"] floating enable, border pixel 5, sticky enable, resize set width 1024 px height 768 px
+for_window [title="^Picture-in-Picture$" app_id="firefox"] floating enable, border pixel 2, sticky enable, opacity 0.85, resize set width 340 px height 200 px, move position 1150 700
+for_window [title="^Picture-in-picture$"] floating enable, border pixel 2, sticky enable, opacity 0.85, resize set width 340 px height 200 px, move position 1150 700
+for_window [app_id="pavucontrol"] sticky enable; floating enable
+for_window [app_id="File Browser"] floating enable

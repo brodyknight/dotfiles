@@ -1,0 +1,8 @@
+program_options:
+  udisks_version: 2
+  tray: auto
+  automount: true
+  notify: true
+
+mount_options:
+
